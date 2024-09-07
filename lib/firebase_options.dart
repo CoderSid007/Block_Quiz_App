@@ -50,17 +50,17 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD4x8nxUlpHKdlnmBAzuW09JLiliF7bzK8',
-    appId: '1:149608046655:android:0e83d73ed20a4161d8588a',
-    messagingSenderId: '149608046655',
+    apiKey: 'your api key',
+    appId: 'your app id',
+    messagingSenderId: 'your messaging sender id',
     projectId: 'quizapp-998b3',
     storageBucket: 'quizapp-998b3.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAZq9kd0PjQq76MXYQ3nfCqhow4JQoRPi4',
-    appId: '1:149608046655:ios:5cbaf0bf5f4e43cbd8588a',
-    messagingSenderId: '149608046655',
+    apiKey: 'your api key',
+    appId: 'your app id',
+    messagingSenderId: 'your messaging sender id',
     projectId: 'quizapp-998b3',
     storageBucket: 'quizapp-998b3.appspot.com',
     iosBundleId: 'com.example.quizapp',
